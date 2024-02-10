@@ -1,2 +1,3 @@
 # GEM-Inventory-Management-System-
 This is a Inventory Management System that was done as a project in the curriculum subject, Software Engineering. 
+It's an inventory Management for the purpose of helping our client's business inventory management. 
